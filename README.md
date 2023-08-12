@@ -11,7 +11,7 @@
 
 
 ## Description
-HTLC Bingo was created for a Church Bingo in the early stages. Operated by a Bingo Manager with many years in the field hoping to continue her work in the field but also help the church she attended and her children were baptized in to save from closing.
+HTLC Bingo was created using basic HTML and CSS for a Church Bingo in the early stages. Operated by a Bingo Manager with many years in the field hoping to continue her work in the field but also help the church she attended and her children were baptized in to save from closing.
 
 ## Usage
 This Webpage will be used to show hours of operation, location, and all other information players will need or want if they decide to come play bingo with HTLC.
