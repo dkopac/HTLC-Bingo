@@ -7,7 +7,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: fantasy;
+    font-family: 'Cabin', sans-serif;
     font-size: x-large;
     color: black;
     
@@ -17,7 +17,7 @@ body {
     background-image: url(./Bingo-night.webp);
     background-size: auto;
     background-position: center;
-    font-family: fantasy;
+    font-family: 'Cabin', sans-serif;
     font-size: x-large;
     text-align: center;
 
@@ -27,26 +27,26 @@ li {
     list-style: none;
     display: inline-block;
     padding: 0 20px;
-    font-family: fantasy;
+    font-family: 'Cabin', sans-serif;
     font-size: x-large;
     color: white;
 }
 
 div {
-    font-family: fantasy;
+    font-family: 'Cabin', sans-serif;
     font-size: x-large;
     color: black;
 }
 
 
 h2 {
-    font-family: fantasy;
+    font-family: 'Cabin', sans-serif;
     font-size: x-large;
     color: white;
 }
 
 p {
-    font-family: fantasy;
+    font-family: 'Cabin', sans-serif;
     font-size: x-large;
     color: white;
 }
