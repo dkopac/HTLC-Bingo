@@ -9,7 +9,7 @@ header {
     align-items: center;
     font-family: 'Cabin', sans-serif;
     font-size: x-large;
-    color: rgb(255, 0, 255);
+    color: gold
 
     
 }
@@ -25,9 +25,7 @@ ul {
 }
 
 body {
-   background-image: url(HTLC\ FEB\ 25.jpg);
-    
-
+   background-image: url(Shamrock\ Background.jpg);
    background-size:contain;
     color: white;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -66,7 +64,7 @@ h2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: rgb(255, 0, 255);
+    color: rgb(255, 183, 0);
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -80,7 +78,7 @@ section {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: white;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -92,7 +90,7 @@ p {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: rgb(255, 0, 195);
+    color: white;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -107,7 +105,7 @@ p1 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: rgb(255, 0, 195);
+    color: gold;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -122,7 +120,7 @@ p2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: rgb(255, 0, 195);
+    color: rgb(255, 217, 0);
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -137,7 +135,7 @@ p3 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: rgb(255, 0, 195);
+    color: rgb(255, 217, 0);
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -152,7 +150,7 @@ p4 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: rgb(255, 0, 195);
+    color: rgb(255, 217, 0);
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -167,7 +165,7 @@ p5 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: rgb(255, 0, 195);
+    color: rgb(255, 217, 0);
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -176,6 +174,6 @@ p5 {
 
 a{
     text-decoration: none;
-    color: rgb(44, 44, 44);
+    color: rgb(0, 255, 0);
     transition: all .5s ease;
 }
