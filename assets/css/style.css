@@ -9,7 +9,7 @@ header {
     align-items: center;
     font-family: 'Cabin', sans-serif;
     font-size: x-large;
-    color: #a98a47;
+    color: #0c374d;
 
     
 }
@@ -25,7 +25,7 @@ ul {
 }
 
 body {
-   background-image: url(../Spring\ 2025.jpg);
+   background-image: url(../css/June\ 2025\ Packground.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -73,7 +73,7 @@ h2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #a98a47;
+    color: #1287a8;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -99,7 +99,7 @@ p {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #e8662d;
+    color: #9a2617;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -109,12 +109,12 @@ p {
 p1 {
     border-style: ridge;
     border-width: 5px;
-    border-color: #b687b7;
+    border-color: #c2571a;
     font-size: 1.5em;
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #b687b7;
+    color: #c2571a;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -124,12 +124,12 @@ p1 {
 p2 {
     border-style: ridge;
     border-width: 5px;
-    border-color: #b687b7;
+    border-color: #c2571a;
     font-size: 1.5em;
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #b687b7;
+    color: #c2571a;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -139,12 +139,12 @@ p2 {
 p3 {
     border-style: ridge;
     border-width: 5px;
-    border-color: #b687b7;
+    border-color: #c2571a;
     font-size: 1.5em;
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #b687b7;
+    color: #c2571a;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -154,12 +154,12 @@ p3 {
 p4 {
     border-style: ridge;
     border-width: 5px;
-    border-color: #b687b7;
+    border-color: #c2571a;
     font-size: 1.5em;
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #b687b7;
+    color: #c2571a;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -169,12 +169,12 @@ p4 {
 p5 {
     border-style: ridge;
     border-width: 5px;
-    border-color: #b687b7;
+    border-color: #c2571a;
     font-size: 1.5em;
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #b687b7;
+    color: #c2571a;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -198,6 +198,6 @@ p6 {
 
 a{
     text-decoration: none;
-    color: #ea9bb8;
+    color: black;
     transition: all .5s ease;
 }
