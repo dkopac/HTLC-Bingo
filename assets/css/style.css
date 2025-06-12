@@ -201,3 +201,8 @@ a{
     color: black;
     transition: all .5s ease;
 }
+
+.footer-img {
+    width:300px;
+    height:auto;
+}
