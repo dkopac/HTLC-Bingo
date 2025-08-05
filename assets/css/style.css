@@ -181,14 +181,23 @@ p5 {
 }
 
 p6 {
-    /* border-style: ridge;
-    border-width: 5px;
-    border-color: #b687b7; */
     font-size: 1.5em;
     font-weight: 700;
     margin: 0;
     padding: 0;
     color: navy;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 0 1px 1px rgba(0,0,0,.1);
+    font-size: x-large;
+}
+
+p7 {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    color: black;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
