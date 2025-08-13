@@ -23,6 +23,14 @@ ul {
     color: #001F3F;
 }
 
+img.middle-image {
+    width: 50%;
+    height: auto;
+    max-width: 400px;
+    margin: 0 auto;
+    display: block;
+}
+
 body {
    background-image: url(../css/August\ 2025.png);
     background-repeat: no-repeat;
