@@ -9,7 +9,7 @@ header {
     align-items: center;
     font-family: 'Cabin', sans-serif;
     font-size: x-large;
-    color: #e6fffe;
+    color: #900048;
     
 }
 ul {
@@ -20,7 +20,7 @@ ul {
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-    color: #001F3F;
+    color: red;
 }
 
 img.float-left {
@@ -40,9 +40,9 @@ img.middle-image {
 }
 
 body {
-   background-image: url(../css/September\ 2025.png);
-    /* background-repeat: no-repeat;
-    background-attachment: fixed; */
+   background-image: url(../css/October\ 2025.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -88,7 +88,7 @@ h2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #4b2e2e;
+    color: #900048;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -102,7 +102,7 @@ section {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: violet;
+    color: #222222;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -114,7 +114,7 @@ p {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #222222;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -129,7 +129,7 @@ p1 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #006b6b;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -144,7 +144,7 @@ p2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #006b6b;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -159,7 +159,7 @@ p3 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #006b6b;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -174,7 +174,7 @@ p4 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #006b6b;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -189,7 +189,7 @@ p5 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #006b6b;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -213,7 +213,7 @@ p7 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #6b6b6b;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -222,7 +222,7 @@ p7 {
 
 a{
     text-decoration: none;
-    color: blue;
+    color: #006B6B;
     transition: all .5s ease;
 }
 
