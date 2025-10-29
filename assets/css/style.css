@@ -40,7 +40,7 @@ img.middle-image {
 }
 
 body {
-   background-image: url(../css/October\ 2025.png);
+   background-image: url(../css/November\ 25.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -129,7 +129,7 @@ p1 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #006b6b;
+    color: #C24A12;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -144,7 +144,7 @@ p2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #006b6b;
+    color: #C24A12;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -159,7 +159,7 @@ p3 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #006b6b;
+    color: #C24A12;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -174,7 +174,7 @@ p4 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #006b6b;
+    color: #C24A12;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -189,7 +189,7 @@ p5 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #006b6b;
+    color: #C24A12;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -222,7 +222,7 @@ p7 {
 
 a{
     text-decoration: none;
-    color: #006B6B;
+    color: #3B2F2A;
     transition: all .5s ease;
 }
 
