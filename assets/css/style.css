@@ -9,7 +9,7 @@ header {
     align-items: center;
     font-family: 'Cabin', sans-serif;
     font-size: x-large;
-    color: #900048;
+    color: crimson;
     
 }
 ul {
@@ -40,7 +40,7 @@ img.middle-image {
 }
 
 body {
-   background-image: url(../css/November\ 25.png);
+   background-image: url(../css/December\ 2025.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -88,7 +88,7 @@ h2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #900048;
+    color: crimson;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -114,7 +114,7 @@ p {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #222222;
+    color: #36454F;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -129,7 +129,7 @@ p1 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #C24A12;
+    color: blue;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -144,7 +144,7 @@ p2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #C24A12;
+    color: blue;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -159,7 +159,7 @@ p3 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #C24A12;
+    color: blue;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -174,7 +174,7 @@ p4 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #C24A12;
+    color: blue;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -189,7 +189,7 @@ p5 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #C24A12;
+    color: blue;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -222,7 +222,7 @@ p7 {
 
 a{
     text-decoration: none;
-    color: #3B2F2A;
+    color: #36454F;
     transition: all .5s ease;
 }
 
