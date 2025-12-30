@@ -9,7 +9,7 @@ header {
     align-items: center;
     font-family: 'Cabin', sans-serif;
     font-size: x-large;
-    color: crimson;
+    color: #002B5B
     
 }
 ul {
@@ -40,7 +40,7 @@ img.middle-image {
 }
 
 body {
-   background-image: url(../css/December\ 2025.png);
+   background-image: url(../css/January\ 2026.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -88,7 +88,7 @@ h2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: crimson;
+    color: #1A237E;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -114,7 +114,7 @@ p {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #36454F;
+    color: #C62828;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -129,7 +129,7 @@ p1 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: blue;
+    color: #6A1B9A;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -144,7 +144,7 @@ p2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: blue;
+    color: #6A1B9A;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -159,7 +159,7 @@ p3 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: blue;
+    color: #6A1B9A;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -174,7 +174,7 @@ p4 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: blue;
+    color: #6A1B9A;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -218,7 +218,7 @@ p8 {
 
 a{
     text-decoration: none;
-    color: #36454F;
+    color: #8D6E63;
     transition: all .5s ease;
 }
 
