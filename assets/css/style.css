@@ -9,7 +9,7 @@ header {
     align-items: center;
     font-family: 'Cabin', sans-serif;
     font-size: x-large;
-    color: #FF6F59;
+    color: #006B6B;
     
 }
 ul {
@@ -20,7 +20,7 @@ ul {
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-    color: #FF6F59;
+    color: #006B6B;
 }
 
 img.float-left {
@@ -40,7 +40,7 @@ img.middle-image {
 }
 
 body {
-   background-image: url(../css/July\ 26\ Background.png);
+   background-image: url(../css/August\ 2026.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -88,7 +88,7 @@ h2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #0A1A3A;
+    color: #E64A19;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -114,7 +114,7 @@ p {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #003366;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -218,7 +218,7 @@ p8 {
 
 a{
     text-decoration: none;
-    color: #FF6F59;
+    color: #006B6B;
     transition: all .5s ease;
 }
 
