@@ -9,7 +9,7 @@ header {
     align-items: center;
     font-family: 'Cabin', sans-serif;
     font-size: x-large;
-    color: #006B6B;
+    color: #4B2E05;
     
 }
 ul {
@@ -20,7 +20,7 @@ ul {
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-    color: #006B6B;
+    color: #4B2E05;
 }
 
 img.float-left {
@@ -40,7 +40,7 @@ img.middle-image {
 }
 
 body {
-   background-image: url(../css/August\ 2026.png);
+   background-image: url(../css/September\ 2026.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -88,7 +88,7 @@ h2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #E64A19;
+    color: #4B2E05;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -114,7 +114,7 @@ p {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: #003366;
+    color: #2E2E2E;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -129,7 +129,7 @@ p1 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #4B2E05;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -144,7 +144,7 @@ p2 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #4B2E05;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -159,7 +159,7 @@ p3 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #4B2E05;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -174,7 +174,7 @@ p4 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #4B2E05;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -186,7 +186,7 @@ p6 {
     font-weight: 700;
     margin: 0;
     padding: 0;
-    color: navy;
+    color: #4B2E05;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-shadow: 0 1px 1px rgba(0,0,0,.1);
@@ -218,7 +218,7 @@ p8 {
 
 a{
     text-decoration: none;
-    color: #006B6B;
+    color: #4B2E05;
     transition: all .5s ease;
 }
 
